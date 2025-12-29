@@ -1,7 +1,16 @@
 ## Hi there 👋
+<table>
+  <tr>
+    
+  </tr>
+</table>
+
 
 <table>
   <tr>
+    <td>
+      <img src="https://github.com/JamesLee-Hying/JamesLee-Hying/blob/main/Coding.gif" />
+    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JamesLee-Hying&show_icons=true&theme=vision-friendly-dark&locale=en&layout=compact" alt="JamesLee-Hying" />
     </td>
